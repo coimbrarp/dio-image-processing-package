@@ -9,7 +9,7 @@
 ## Descomplicando a criação de pacotes de processamento de imagens em Python
 
 
-### O pacote "image_processing_test" é usado para:
+### O pacote "image_processing" é usado para:
 
 Módulo "Processing":
 - Correspondência de histograma;
